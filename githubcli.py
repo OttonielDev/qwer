@@ -38,8 +38,8 @@ class CallingUpload:
 
 class GithubCli(object):
     def __init__(self, username='',password='',my='ObiDevCu'):
-        self.host = 'https://github.com/'
-        self.hosting = 'https://github.com'
+        self.host = 'https://gitlab.uho.edu.cu/'
+        self.hosting = 'https://gitlab.uho.edu.cu/'
         self.nexushost = 'https://nexus.uclv.edu.cu/repository/'
         self.username = username
         self.password = password
